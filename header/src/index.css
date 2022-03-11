@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: #fff;
+  padding: 0 120px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+:root{
+  --greenColor: #46A358
+}
