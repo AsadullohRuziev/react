@@ -18,8 +18,7 @@ const Navbar = () => {
             <Link
               onClick={() => setActive(value.path)}
               active={active === value.path}
-              to={value.path}
-              ric       >
+              to={value.path}>
               {value.title}
             </Link>
           ))}
